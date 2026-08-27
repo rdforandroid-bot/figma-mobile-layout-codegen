@@ -10,6 +10,7 @@ Layout and screen codegen from Figma for **native mobile** — **separate output
 2. [Canvas Selection + SoM Prompt Composer](https://www.youtube.com/watch?v=G10twPJXWu0)
 3. [JSON & Image ZIP Export Figma Plugin](https://www.youtube.com/watch?v=tqI2a4K4CB4)
 4. [Create RecyclerView Demo](https://www.youtube.com/watch?v=9EkmLbXcRCk)
+5. [SoM + Prompt Composer（Cursor / VS Code）](https://www.youtube.com/watch?v=_-o53kWRggQ)
 
 ## Demos
 
