@@ -1,6 +1,7 @@
 # Figma Mobile Layout Codegen
 
 Visual Studio Code extension — install from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=android-ios-layoutcodegen.android-ios-layoutcodegen).
+
 Cursor extension — install from the [Cursor extension](https://open-vsx.org/extension/android-ios-layoutcodegen/android-ios-layoutcodegen).
 
 Layout and screen codegen from Figma for **native mobile** — **separate outputs per platform**, not a single cross-platform codebase.
