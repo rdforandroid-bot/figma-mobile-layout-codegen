@@ -12,7 +12,7 @@ Layout and screen codegen from Figma for **native mobile** — **separate output
 3. [JSON & Image ZIP Export Figma Plugin](https://www.youtube.com/watch?v=tqI2a4K4CB4)
 4. [SoM + Prompt Composer（Cursor / VS Code）](https://www.youtube.com/watch?v=_-o53kWRggQ)
 5. [Create RecyclerView Demo](https://www.youtube.com/watch?v=9EkmLbXcRCk)
-6. [Create BottomNavigationBar Demo](https://www.youtube.com/watch?v=9EkmLbXcRCk)
+6. [Create BottomNavigationBar Demo](https://www.youtube.com/watch?v=dxT2NnOLbmQ)
 7. [Create Tab Bar Demo](https://www.youtube.com/watch?v=LUGZOeqyQ_U)
 
 ## Demos
