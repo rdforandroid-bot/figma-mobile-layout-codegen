@@ -1,6 +1,7 @@
 # Figma Mobile Layout Codegen
 
 Visual Studio Code extension — install from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=android-ios-layoutcodegen.android-ios-layoutcodegen).
+Cursor extension — install from the [Cursor extension](https://open-vsx.org/extension/android-ios-layoutcodegen/android-ios-layoutcodegen).
 
 Layout and screen codegen from Figma for **native mobile** — **separate outputs per platform**, not a single cross-platform codebase.
 
@@ -9,8 +10,10 @@ Layout and screen codegen from Figma for **native mobile** — **separate output
 1. [Figma ZIP file into a live app demo](https://www.youtube.com/watch?v=QOVnilCZAAQ)
 2. [Canvas Selection + SoM Prompt Composer](https://www.youtube.com/watch?v=G10twPJXWu0)
 3. [JSON & Image ZIP Export Figma Plugin](https://www.youtube.com/watch?v=tqI2a4K4CB4)
-4. [Create RecyclerView Demo](https://www.youtube.com/watch?v=9EkmLbXcRCk)
-5. [SoM + Prompt Composer（Cursor / VS Code）](https://www.youtube.com/watch?v=_-o53kWRggQ)
+4. [SoM + Prompt Composer（Cursor / VS Code）](https://www.youtube.com/watch?v=_-o53kWRggQ)
+5. [Create RecyclerView Demo](https://www.youtube.com/watch?v=9EkmLbXcRCk)
+6. [Create BottomNavigationBar Demo](https://www.youtube.com/watch?v=9EkmLbXcRCk)
+7. [Create Tab Bar Demo](https://www.youtube.com/watch?v=LUGZOeqyQ_U)
 
 ## Demos
 
